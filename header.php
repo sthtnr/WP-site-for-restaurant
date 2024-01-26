@@ -51,7 +51,7 @@
               </dl>
             </div>
             <p>
-              <a href="#info"><i class="fa-solid fa-envelope"></i><span>ご予約・お問い合わせ</span></a>
+              <a href="<?php echo home_url('/#info'); ?>"><i class="fa-solid fa-envelope"></i><span>ご予約・お問い合わせ</span></a>
             </p>
           </div>
         </div>
